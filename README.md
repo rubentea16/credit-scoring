@@ -5,8 +5,9 @@ Credit Scoring adalah sebuah case pada bagian finance untuk melakukan prediksi k
 	Terdapat 3 file jupyter notebook sebagai berikut :
 	- EDA & Preprocessing.ipynb
 	- Modelling.ipynb
-	- AutoML_H2O
-Pada setiap file jupyter notebook sudah ada penjelasan mengenai langkah - langkah yang dilakukan secara detail	
+	- AutoML_H2O.ipynb
+Untuk (EDA & Preprocessing.ipynb) dan (Modelling.ipynb) di dalam jupyter notebook sudah ada penjelasan mengenai langkah - langkah yang dilakukan secara detail. 
+Sedangkan untuk (AutoML_H2O.ipynb) adalah percobaan menggunakan Automatic Machine Learning dengan menggunakan framework H2O	
 
 ## Input Data
 Dataset-nya adalah **cs_train.xlsx**
